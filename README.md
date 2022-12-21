@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @igormmp
+- 👀 I’m interested in automation for enterprises (specially franchises)
+- 🌱 I’m currently learning python
+- 📫 How to reach me: igormmp@gmail.com
